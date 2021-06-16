@@ -1,5 +1,4 @@
 #include <iostream>
-// hehehehehehehe
 using namespace std;
 /* initialize state to random bits */
 static unsigned long state[16] = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1};
